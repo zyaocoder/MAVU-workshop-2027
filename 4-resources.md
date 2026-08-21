@@ -31,6 +31,22 @@ nav: true
    email="qhuazhan@qti.qualcomm.com"
    website="https://zsivine.github.io/" %}
 
+{% include organizer-card.html 
+   img="1516766180256.jpeg" 
+   name="Ning Bi," 
+   title="VP of Engineering" 
+   affiliation="Qualcomm"
+   email=""
+   website="" %}
+
+{% include organizer-card.html 
+   img="1703738974955.jpeg" 
+   name="Fatih Porikli," 
+   title="VP, Technology" 
+   affiliation="Qualcomm"
+   email=""
+   website="" %}
+
 </div>
 
 

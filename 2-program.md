@@ -5,7 +5,7 @@ nav: true
 
 # Program Schedule 
 
-**Date:** March 7, 2026  
+**Date:**  
 **Time:** 09:00 – 18:30  
 
 
