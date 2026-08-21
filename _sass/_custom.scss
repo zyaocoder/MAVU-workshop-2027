@@ -67,6 +67,32 @@ section h2 {
     border-radius: 5px;
 }
 
+/* Tables: left-align headers so columns line up with cell text */
+table {
+    width: 100%;
+    margin: 1.5em 0;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th, td {
+    padding: 0.55em 0.9em;
+    border: 1px solid $grey-color-light;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background: lighten($grey-color-light, 3%);
+    font-weight: 600;
+}
+
+th:first-child,
+td:first-child {
+    white-space: nowrap;
+    width: 1%;
+}
+
 /* Organizers Grid Layout */
 .organizers-grid {
     display: grid;
