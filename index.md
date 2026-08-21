@@ -7,7 +7,7 @@ layout: default
 # Visual Art, Generative AI, and the Legal/Ethical Dilemma Workshop @ WACV 2026
 {: .center }
 
-{% include figure.html img="Gemini_Generated_Image_xyn0stxyn0stxyn0.png" alt="intro image here" caption="A stylized version of the WACV 2026 image" width="75%" %}
+{% include figure.html img="wacv27-disney-image.jpg" alt="WACV 2027 workshop banner" caption="A stylized version of the WACV 2027 image" width="75%" %}
 
 <!-- Generative AI has transformed how visual art is created and circulated. Text-to-image generation systems such as Stable Diffusion, DALL·E, and Midjourney can instantly produce artworks inspired by centuries of human creativity. While these technologies democratize access to artistic tools, they also raise urgent questions about copyright, artistic integrity, and provenance. Recent controversies underscore the dilemma:
 
