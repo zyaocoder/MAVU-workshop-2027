@@ -11,7 +11,8 @@ nav: true
 
 
 | Time            | Event                     |
-|-----------------|-----------------------------|
+|-----------------|---------------------------|
+| 
 | 1:00 – 1:15 PM | Opening Remarks             |
 | 1:15 – 2:15 PM | Invited Talk 1 Given by Dr. Vishal M. Patel              |
 | 2:15 – 2:55 PM | Oral Paper Presentations    |
