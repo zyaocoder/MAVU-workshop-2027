@@ -10,21 +10,29 @@ nav: true
 
 
 
-| Time            | Event                   |
-|-----------------|---------------------------|
-| 09:00 – 09:10 | Opening Remarks |
-| 09:10 – 10:00 | Invited Talk 1 |
-| 10:00 – 10:50 | Invited Talk 2 |
-| 10:50 – 11:10 | Coffee Break |
-| 11:10 – 12:00 | Invited Talk 3 |
-| 12:00 – 13:30 | Lunch Break and Poster Session 1 |
-| 13:30 – 14:20 | Invited Talk 4 |
-| 14:20 – 15:10 | Invited Talk 5 |
-| 15:10 – 15:40 | Coffee Break |
-| 15:40 – 16:40 | AI Challenge Session: overview, top solutions, and awards |
-| 16:40 – 17:30 | Poster Session and Industry Demos |
-| 17:30 – 18:15 | Panel Discussion: “The Future of Video Intelligence: From Forensics to Autonomy” |
-| 18:15 – 18:30 | Best Paper Awards and Closing Remarks |
+<table class="program-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>09:00 – 09:10</td><td>Opening Remarks</td></tr>
+    <tr><td>09:10 – 10:00</td><td>Invited Talk 1</td></tr>
+    <tr><td>10:00 – 10:50</td><td>Invited Talk 2</td></tr>
+    <tr><td>10:50 – 11:10</td><td>Coffee Break</td></tr>
+    <tr><td>11:10 – 12:00</td><td>Invited Talk 3</td></tr>
+    <tr><td>12:00 – 13:30</td><td>Lunch Break and Poster Session 1</td></tr>
+    <tr><td>13:30 – 14:20</td><td>Invited Talk 4</td></tr>
+    <tr><td>14:20 – 15:10</td><td>Invited Talk 5</td></tr>
+    <tr><td>15:10 – 15:40</td><td>Coffee Break</td></tr>
+    <tr><td>15:40 – 16:40</td><td>AI Challenge Session: overview, top solutions, and awards</td></tr>
+    <tr><td>16:40 – 17:30</td><td>Poster Session and Industry Demos</td></tr>
+    <tr><td>17:30 – 18:15</td><td>Panel Discussion: “The Future of Video Intelligence: From Forensics to Autonomy”</td></tr>
+    <tr><td>18:15 – 18:30</td><td>Best Paper Awards and Closing Remarks</td></tr>
+  </tbody>
+</table>
 
 
 

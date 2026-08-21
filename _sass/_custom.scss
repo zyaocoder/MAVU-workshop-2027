@@ -67,30 +67,38 @@ section h2 {
     border-radius: 5px;
 }
 
-/* Tables: left-align headers so columns line up with cell text */
-table {
-    width: 100%;
+/* Compact program schedule: Time stays a fixed column, Event stays left-aligned under its header */
+.program-table {
+    width: auto;
+    max-width: 100%;
     margin: 1.5em 0;
     border-collapse: collapse;
-    text-align: left;
+    table-layout: fixed;
 }
 
-th, td {
-    padding: 0.55em 0.9em;
-    border: 1px solid $grey-color-light;
+.program-table th,
+.program-table td {
+    padding: 0.35em 1.5em 0.35em 0;
+    border: none;
     text-align: left;
     vertical-align: top;
 }
 
-th {
-    background: lighten($grey-color-light, 3%);
-    font-weight: 600;
+.program-table th {
+    font-weight: 700;
+    background: transparent;
+    border-bottom: 1px solid $text-color;
 }
 
-th:first-child,
-td:first-child {
+.program-table th:first-child,
+.program-table td:first-child {
+    width: 10.5em;
     white-space: nowrap;
-    width: 1%;
+}
+
+.program-table th:last-child,
+.program-table td:last-child {
+    width: 36em;
 }
 
 /* Organizers Grid Layout */
