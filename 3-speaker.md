@@ -48,6 +48,7 @@ Vishal M. Patel is an Associate Professor in the Department of Electrical and Co
 *Abstract*: Ensuring safety, accountability, and responsible use of modern generative AI models requires not only detecting harmful outputs, but also actively removing or unlearning undesirable concepts from the underlying models. In this talk, I will present our recent progress on robust concept erasure and unlearning, highlighting methods that allow generative models to “forget” unsafe, copyrighted, or ethically sensitive concepts while preserving their overall utility. I will discuss classifier-guided and black-box erasure techniques, which modify only the text embeddings at inference time and enable user-controlled filtering without accessing model weights. I will then describe STEREO, our two-stage adversarially robust framework that overcomes the utility–safety trade-off common in existing concept-erasure methods. The talk will primarily focus on unlearning as a key pillar for building safer, legally compliant, and ethically aligned generative AI systems.
 
 </div>
+
 ## 🗣️ Speaker 3: Dr. Yang Liu 
 
 
