@@ -4,7 +4,7 @@ layout: default
 ---
 
 <section id="home" class="section-hero" markdown="1">
-# Visual Art, Generative AI, and the Legal/Ethical Dilemma Workshop @ WACV 2026
+# Multi-Faceted Analysis for Video Understanding Workshop @ WACV 2027
 {: .center }
 
 {% include figure.html img="wacv27-disney-image.jpg" alt="WACV 2027 workshop banner" caption="A stylized version of the WACV 2027 image" width="75%" %}

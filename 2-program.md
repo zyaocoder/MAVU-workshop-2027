@@ -6,25 +6,25 @@ nav: true
 # Program Schedule 
 
 **Date:** March 7, 2026  
-**Time:** 1:00 PM – 5:30 PM  
+**Time:** 09:00 – 18:30  
 
 
 
-| Time            | Event                     |
-|-----------------|----------------------------|
-| 0900-0910       |  Opening Remarks           |
-| 0910-10:00      |  Invited Talk 1            |
-| 10:00-10:50     |  Invited Talk 2            |
-| 10:50-11:10     |  Coffee Break              |
-| 11:10-12:00     |  Invited Talk 3            |
-| 12:00-13:30     |   Lunch Break              |
-| 13:30-14:20     |  Paper 1                   |
-| 14:20-15:10     |  Paper 2                   |
-| 15:10-15:40     |  Coffee Break              |
-| 15:40-16:40     |  Poster Session.           |
-| 16:40-17:30     |  AI Challenge Session      |
-| 17:30-18:15     |  Panel Discussion          |
-| 18:15-18:30     |  Closing Remarks           |
+| Time            | Event                   |
+|-----------------|---------------------------|
+| 09:00 – 09:10 | Opening Remarks |
+| 09:10 – 10:00 | Invited Talk 1 |
+| 10:00 – 10:50 | Invited Talk 2 |
+| 10:50 – 11:10 | Coffee Break |
+| 11:10 – 12:00 | Invited Talk 3 |
+| 12:00 – 13:30 | Lunch Break and Poster Session 1 |
+| 13:30 – 14:20 | Invited Talk 4 |
+| 14:20 – 15:10 | Invited Talk 5 |
+| 15:10 – 15:40 | Coffee Break |
+| 15:40 – 16:40 | AI Challenge Session: overview, top solutions, and awards |
+| 16:40 – 17:30 | Poster Session and Industry Demos |
+| 17:30 – 18:15 | Panel Discussion: “The Future of Video Intelligence: From Forensics to Autonomy” |
+| 18:15 – 18:30 | Best Paper Awards and Closing Remarks |
 
 
 
