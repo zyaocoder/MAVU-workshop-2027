@@ -11,15 +11,20 @@ nav: true
 
 
 | Time            | Event                     |
-|-----------------|---------------------------|
-| xxx            |                            |
-| 1:00 – 1:15 PM | Opening Remarks             |
-| 1:15 – 2:15 PM | Invited Talk 1 Given by Dr. Vishal M. Patel              |
-| 2:15 – 2:55 PM | Oral Paper Presentations    |
-| 3:00 – 3:15 PM | Coffee Break                |
-| 3:15 – 4:15 PM | Poster Session (All Papers) |
-| 4:15 – 5:15 PM | Invited Talk 2 Given by Dr. Shruti Agarwal             |
-| 5:15 – 5:30 PM | Awards & Closing Remarks    |
+|-----------------|----------------------------|
+| 0900-0910       |  Opening Remarks           |
+| 0910-10:00      |. Invited Talk 1            |
+| 10:00-10:50     |  Invited Talk 2            |
+| 10:50-11:10     |  Coffee Break              |
+| 11:10-12:00     |  Invited Talk 3            |
+| 12:00-13:30     |   Lunch Break              |
+| 13:30-14:20     |  Paper 1                   |
+| 14:20-15:10     |  Paper 2.                  |
+| 15:10-15:40     | Coffee Break               |
+| 15:40-16:40     |  Poster Session.           |
+| 16:40-17:30     |  AI Challenge Session      |
+| 17:30-18:15     | Panel Discussion           |
+| 18:15-18:30     | Closing Remarks.           |
 
 
 
