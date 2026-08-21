@@ -8,18 +8,18 @@
 
 # Site settings
 # title appears in the header
-title: VALED@WACV 2026
+title: MAVU@WACV 2027
 # description and keywords for meta tags
-description: "Website for the Workshop on Visual Art, Generative AI, and the Legal/Ethical Dilemma"
-keywords: "Visual Art, Protection, Provenance, Image Generation and Editing, Copyright Infringement"
+description: "Website for the Multi-Faceted Analysis for Video Understanding (MAVU) Workshop"
+keywords: "Video Question Answering, Long Video Understanding, Drone Video Analysis"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Zhen Yao
+pub_year: 2026
+github_username: zyaocoder
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://zyaocoder.github.io/MAVU-workshop-2027/"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.
