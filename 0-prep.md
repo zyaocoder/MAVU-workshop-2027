@@ -5,14 +5,8 @@ nav: true
 
 # About
 
-Generative AI has transformed how visual art is created and circulated. Text-to-image generation systems such as Stable Diffusion, DALL·E, and Midjourney can instantly produce artworks inspired by centuries of human creativity. While these technologies democratize access to artistic tools, they also raise urgent questions about copyright, artistic integrity, and provenance. Recent controversies underscore the dilemma:
+We are witnessing a paradigm shift in computer vision, driven by the explosion of video data from diverse platforms and the rise of multimodal foundation models. This workshop is dedicated to the multi-faceted analysis of video, exploring how advanced technologies—specifically Forensic Search, Video Question Answering (VQA), and Long Video Understanding—can unlock deep insights from varying perspectives. We focus on three critical and distinct modalities: Aerial/Drone Vision, Surveillance Systems, and Egocentric Vision (personal glasses and body-worn devices).
 
-• In 2023, artists filed lawsuits alleging that diffusion models trained on datasets like LAION-5B infringed their copyrights by replicating distinctive styles without consent.
+Each of these modalities offers a unique vantage point on the world, from the broad, contextual overview of a drone to the persistent monitoring of surveillance cameras and the first-person, intent-driven perspective of body-worn devices. The core theme of this workshop is to promote research into flexible interactions with these diverse video sources. By leveraging natural language queries (VQA) and advanced forensic search capabilities, we can transform passive video archives into interactive intelligence systems. This approach allows users to intuitively navigate and reason about complex events across different scales and viewpoints, bridging the gap between raw pixel data and high-level semantic understanding.
 
-• High-profile controversies have emerged around "style mimicry," where AI systems can reproduce the brushwork and palette of living artists—prompting protests under hashtags like #ProtectArtists.
-
-• Legal uncertainty persists in landmark U.S. cases (e.g., Andersen v. Stability AI) and in international contexts, where courts debate whether AI-generated art constitutes a derivative work or violates the substantial similarity test.
-
-• Questions of authorship, provenance, and authenticity now intersect with computer vision and forensics—how do we trace whether a generated work contains identifiable fragments of training data?
-
-This workshop will bring together researchers, artists, legal scholars, and industry practitioners to critically examine the technical, legal, and societal challenges of visual art in the age of generative AI. By hosting this dialogue at WACV, we seek to bridge the computer vision community with the creative and legal domains, and to set a research agenda that safeguards artistic integrity while enabling innovation.
+This workshop serves as a premier forum for researchers to present novel methodologies that handle the specific nuances of each modality while pushing the boundaries of interactive video understanding. By fostering discussion on these multi-faceted approaches, we aim to accelerate the development of robust, real-world applications in public safety, autonomous systems, smart cities, and next-generation media intelligence.
