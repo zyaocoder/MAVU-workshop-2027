@@ -27,7 +27,7 @@ Submissions can include short papers (up to 4 pages including references) or ful
 
 ## Submission Preparation Instructions
 
-Please follow the main conference format and submission guidelines to prepare your papers. Check WACV Submission Guidelines [here](https://wacv.thecvf.com/Conferences/2027/AuthorReviewerGuides)
+Please follow the main conference format and submission guidelines to prepare your papers. Check WACV Submission Guidelines [here](https://wacv.thecvf.com/Conferences/2027/AuthorGuides)
 
 ## Submission site
 
