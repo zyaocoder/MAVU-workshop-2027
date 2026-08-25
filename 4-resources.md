@@ -52,5 +52,5 @@ nav: true
 
 ## Contact
 
-For questions about the workshop, please contact the organizers at [valed-wacv-organizers@googlegroups.com](mailto:valed-wacv-organizers@googlegroups.com).
+For questions about the workshop, please contact the organizers at [mavu-wacv27-organizers@googlegroups.com](mailto:mavu-wacv27-organizers@googlegroups.com).
 
