@@ -58,7 +58,7 @@ nav: true
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
 <div style="flex:0 0 180px;">
-{% include figure.html img="1517429392542.jpeg" alt="Photo of Yang Liu   " caption="" width="100%" %}
+{% include figure.html img="LiuYang.jpg" alt="Photo of Yang Liu   " caption="" width="100%" %}
 </div>
 
 <div style="flex:1;" markdown="1">
