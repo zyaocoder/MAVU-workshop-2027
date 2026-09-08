@@ -19,11 +19,11 @@ Submissions can include short papers (up to 4 pages including references) or ful
 
 ## Important Dates
 
-• Paper Submission Deadline - November 15, 2026 11:59 PM PST
+• Paper Submission Deadline - October 28, 2026 11:59 PM PST
 
-• Decision Notification to Authors - December 2nd, 2026
+• Decision Notification to Authors - Nov 1st, 2026
 
-• Camera Ready Submission Deadline (as per main conference) - December 9, 2026 11:59 PM PST
+• Camera Ready Submission Deadline (as per main conference) - Nov 20, 2026 11:59 PM PST
 
 ## Submission Preparation Instructions
 
