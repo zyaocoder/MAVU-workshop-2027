@@ -299,6 +299,10 @@ layout: default
 
 <hr>
 
+{% include embed-page.html file="5-challenge.md" id="challenge" %}
+
+<hr>
+
 {% include embed-page.html file="3-speaker.md" id="speakers" %}
 
 <hr>
