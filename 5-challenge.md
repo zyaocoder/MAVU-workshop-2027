@@ -8,7 +8,7 @@
 
 .challenge-section {
   background: #ffffff;
-  padding: 35px 30px 45px;
+  padding: 0px 30px 25px;
 }
 
 .challenge-container {
@@ -28,6 +28,7 @@
   font-size: 2rem;
   font-weight: 700;
   color: #0b3c6f;
+  margin-top: 0;
   margin-bottom: 10px;
 }
 
@@ -188,7 +189,7 @@
 </style>
 
 
-<section id="challenge" class="challenge-section">
+<div id="challenge" class="challenge-section">
 
   <div class="challenge-container">
 
@@ -375,4 +376,4 @@
 
   </div>
 
-</section>
+</div>
