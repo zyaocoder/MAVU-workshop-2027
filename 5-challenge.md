@@ -291,16 +291,14 @@
 
         <ul>
           <li>
+            Prizes:
+               Champion: $1,000
+               2nd: $500
+               3rd: $200
+          </li>
+          <li>
             Primary metric:
             <strong>overall multiple-choice accuracy</strong>
-          </li>
-
-          <li>
-            Accuracy will also be reported for individual reasoning tasks.
-          </li>
-
-          <li>
-            Final results are evaluated on the challenge test set.
           </li>
         </ul>
 
@@ -337,7 +335,7 @@
 
       <div class="challenge-card">
 
-        <h3>Awards & Workshop Presentation</h3>
+        <h3>Workshop Presentation</h3>
 
         <p>
           Top-performing teams will be recognized during the MAVU workshop.
