@@ -130,7 +130,7 @@ layout: default
 .workshop-info {
 
   /* No blank space between logos and text */
-  margin: 0;
+  margin: 0 0 20px 0;
   padding: 0;
 
   display: flex;
