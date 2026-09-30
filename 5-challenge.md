@@ -324,7 +324,6 @@
         <p>
           Questions may require reasoning across multiple video frames.
           For example:
-          <br><br>
           <em>
             “How long does the yellow taxi remain visible in the video frame?”
           </em>
