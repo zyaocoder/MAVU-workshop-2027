@@ -9,10 +9,9 @@ layout: default
    ========================================= */
 
 .mavu-hero {
-  background: #f3f6fb;
+  background: #ffffff;
   padding: 50px 30px 32px;
   margin-bottom: 45px;
-  border-bottom: 1px solid #dfe6ee;
 }
 
 .mavu-hero-inner {
@@ -34,8 +33,8 @@ layout: default
 /* ---------- MAVU logo ---------- */
 
 .mavu-main-logo {
-  flex: 1 1 auto;
-  max-width: 850px;
+  flex: 0 1 638px;
+  max-width: 638px;
 }
 
 .mavu-main-logo figure {
@@ -44,7 +43,7 @@ layout: default
 
 .mavu-main-logo img {
   width: 100% !important;
-  max-width: 850px;
+  max-width: 638px;
   height: auto;
   display: block;
   object-fit: contain;
@@ -55,24 +54,17 @@ layout: default
 }
 
 
-/* ---------- WACV block ---------- */
+/* ---------- WACV logo ---------- */
 
 .wacv-block {
-  flex: 0 0 225px;
-  text-align: left;
-  padding-top: 5px;
+  flex: 0 0 380px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.wacv-label {
-  font-size: 0.93rem;
-  color: #5d6673;
-  margin-bottom: 12px;
-  line-height: 1.4;
-}
-
-.wacv-label strong {
-  color: #32465a;
-  font-weight: 600;
+.wacv-logo {
+  width: 380px;
 }
 
 .wacv-logo figure {
@@ -80,10 +72,11 @@ layout: default
 }
 
 .wacv-logo img {
-  width: 190px !important;
+  width: 380px !important;
   max-width: 100%;
   height: auto;
   display: block;
+  object-fit: contain;
 }
 
 .wacv-logo figcaption {
@@ -95,8 +88,7 @@ layout: default
 
 .workshop-info {
   margin-top: 38px;
-  padding-top: 25px;
-  border-top: 1px solid rgba(25, 70, 110, 0.12);
+  padding-top: 10px;
 
   display: flex;
   justify-content: center;
@@ -114,32 +106,32 @@ layout: default
 }
 
 
-/* ---------- Optional full workshop name ---------- */
-
-.workshop-full-name {
-  text-align: center;
-  margin-top: 12px;
-  font-size: 0.95rem;
-  color: #6b7785;
-}
-
-
 /* =========================================
    Responsive
    ========================================= */
 
-@media (max-width: 950px) {
+@media (max-width: 1100px) {
 
   .mavu-brand-row {
-    gap: 30px;
+    gap: 35px;
+  }
+
+  .mavu-main-logo {
+    flex: 0 1 55%;
+    max-width: 638px;
   }
 
   .wacv-block {
-    flex-basis: 180px;
+    flex: 0 1 32%;
+  }
+
+  .wacv-logo {
+    width: 100%;
+    max-width: 380px;
   }
 
   .wacv-logo img {
-    width: 160px !important;
+    width: 100% !important;
   }
 
 }
@@ -153,19 +145,27 @@ layout: default
 
   .mavu-brand-row {
     flex-direction: column;
-    gap: 25px;
+    gap: 20px;
   }
 
   .mavu-main-logo {
-    width: 100%;
-  }
-
-  .wacv-block {
-    text-align: center;
+    width: 85%;
+    max-width: 638px;
     flex: none;
   }
 
+  .wacv-block {
+    width: 65%;
+    max-width: 380px;
+    flex: none;
+  }
+
+  .wacv-logo {
+    width: 100%;
+  }
+
   .wacv-logo img {
+    width: 100% !important;
     margin: 0 auto;
   }
 
@@ -204,12 +204,8 @@ layout: default
       </div>
 
 
-      <!-- WACV -->
+      <!-- WACV logo -->
       <div class="wacv-block">
-
-        <div class="wacv-label">
-          <strong>In conjunction with</strong>
-        </div>
 
         <div class="wacv-logo">
           {% include figure.html
