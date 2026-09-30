@@ -10,8 +10,12 @@ layout: default
 
 .mavu-hero {
   background: #ffffff;
-  padding: 50px 30px 32px;
-  margin-bottom: 45px;
+
+  /* No blank space above logos */
+  padding: 0 30px 0;
+
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .mavu-hero-inner {
@@ -20,32 +24,51 @@ layout: default
 }
 
 
-/* ---------- Main logo row ---------- */
+/* =========================================
+   Main Logo Row
+   ========================================= */
 
 .mavu-brand-row {
   display: flex;
   align-items: center;
   justify-content: center;
+
+  /* Space only between MAVU and WACV */
   gap: 55px;
+
+  margin: 0;
+  padding: 0;
 }
 
 
-/* ---------- MAVU logo ---------- */
+/* =========================================
+   MAVU Logo
+   75% of previous 638px ≈ 478px
+   ========================================= */
 
 .mavu-main-logo {
-  flex: 0 1 638px;
-  max-width: 638px;
+  flex: 0 1 478px;
+  max-width: 478px;
+
+  margin: 0;
+  padding: 0;
 }
 
 .mavu-main-logo figure {
   margin: 0 !important;
+  padding: 0 !important;
 }
 
 .mavu-main-logo img {
   width: 100% !important;
-  max-width: 638px;
+  max-width: 478px;
+
   height: auto;
   display: block;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
   object-fit: contain;
 }
 
@@ -54,28 +77,44 @@ layout: default
 }
 
 
-/* ---------- WACV logo ---------- */
+/* =========================================
+   WACV Logo
+   50% of previous 380px = 190px
+   ========================================= */
 
 .wacv-block {
-  flex: 0 0 380px;
+  flex: 0 0 190px;
+
   display: flex;
   align-items: center;
   justify-content: center;
+
+  margin: 0;
+  padding: 0;
 }
 
 .wacv-logo {
-  width: 380px;
+  width: 190px;
+
+  margin: 0;
+  padding: 0;
 }
 
 .wacv-logo figure {
   margin: 0 !important;
+  padding: 0 !important;
 }
 
 .wacv-logo img {
-  width: 380px !important;
+  width: 190px !important;
   max-width: 100%;
+
   height: auto;
   display: block;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
   object-fit: contain;
 }
 
@@ -84,15 +123,20 @@ layout: default
 }
 
 
-/* ---------- Workshop information ---------- */
+/* =========================================
+   Workshop Information
+   ========================================= */
 
 .workshop-info {
-  margin-top: 38px;
-  padding-top: 10px;
+
+  /* No blank space between logos and text */
+  margin: 0;
+  padding: 0;
 
   display: flex;
   justify-content: center;
   align-items: center;
+
   gap: 14px;
 
   font-size: 1.08rem;
@@ -110,53 +154,58 @@ layout: default
    Responsive
    ========================================= */
 
-@media (max-width: 1100px) {
+@media (max-width: 900px) {
 
   .mavu-brand-row {
-    gap: 35px;
+    gap: 30px;
   }
 
   .mavu-main-logo {
     flex: 0 1 55%;
-    max-width: 638px;
+    max-width: 478px;
   }
 
   .wacv-block {
-    flex: 0 1 32%;
+    flex: 0 1 25%;
+    max-width: 190px;
   }
 
   .wacv-logo {
     width: 100%;
-    max-width: 380px;
+    max-width: 190px;
   }
 
   .wacv-logo img {
     width: 100% !important;
   }
-
 }
 
 
 @media (max-width: 720px) {
 
   .mavu-hero {
-    padding: 35px 20px 26px;
+    padding: 0 20px;
   }
 
   .mavu-brand-row {
     flex-direction: column;
-    gap: 20px;
+
+    /* Small gap between logos on mobile */
+    gap: 8px;
+
+    margin: 0;
+    padding: 0;
   }
 
   .mavu-main-logo {
-    width: 85%;
-    max-width: 638px;
+    width: 75%;
+    max-width: 478px;
     flex: none;
   }
 
   .wacv-block {
-    width: 65%;
-    max-width: 380px;
+    width: 40%;
+    max-width: 190px;
     flex: none;
   }
 
@@ -166,20 +215,22 @@ layout: default
 
   .wacv-logo img {
     width: 100% !important;
-    margin: 0 auto;
+    margin: 0 auto !important;
   }
 
   .workshop-info {
     flex-direction: column;
-    gap: 5px;
+    gap: 2px;
+
     text-align: center;
-    margin-top: 28px;
+
+    margin: 0;
+    padding: 0;
   }
 
   .workshop-info .separator {
     display: none;
   }
-
 }
 </style>
 
@@ -188,13 +239,13 @@ layout: default
 
   <div class="mavu-hero-inner">
 
-    <!-- ==============================
-         Logo Row
-         ============================== -->
+    <!-- =====================================
+         Logos
+         ===================================== -->
 
     <div class="mavu-brand-row">
 
-      <!-- MAVU main logo -->
+      <!-- MAVU Logo -->
       <div class="mavu-main-logo">
         {% include figure.html
            img="MAVU_logo.png"
@@ -204,7 +255,7 @@ layout: default
       </div>
 
 
-      <!-- WACV logo -->
+      <!-- WACV Logo -->
       <div class="wacv-block">
 
         <div class="wacv-logo">
@@ -220,9 +271,9 @@ layout: default
     </div>
 
 
-    <!-- ==============================
-         Date / Location
-         ============================== -->
+    <!-- =====================================
+         Date and Location
+         ===================================== -->
 
     <div class="workshop-info">
 
