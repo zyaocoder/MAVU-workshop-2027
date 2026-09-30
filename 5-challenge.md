@@ -291,7 +291,7 @@
 
         <ul>
           <li>
-            Prizes:<br>
+            Prizes sponsored by <strong>Qualcomm</strong>:<br>
                <strong>Champion🥇: $1,000</strong><br>
                <strong>2nd🥈: $500</strong><br>
                <strong>3rd🥉: $200</strong>
