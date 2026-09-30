@@ -292,9 +292,9 @@
         <ul>
           <li>
             Prizes sponsored by <strong>Qualcomm</strong>:<br>
-               <strong>Champion🥇: $1,000</strong><br>
-               <strong>2nd🥈: $500</strong><br>
-               <strong>3rd🥉: $200</strong>
+               <strong>1st winner🥇: $1,000</strong><br>
+               <strong>2nd winner🥈: $500</strong><br>
+               <strong>3rd winner🥉: $200</strong>
           </li>
           <li>
             Primary metric:
