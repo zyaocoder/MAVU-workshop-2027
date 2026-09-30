@@ -23,7 +23,6 @@ We invite original research contributions in (but not limited to) the following 
 
 • Efficient and real-time video models for UAVs and edge devices
 
-- 
 Submissions can include short papers (up to 4 pages including references) or full papers (up to 8 pages excluding references) in the WACV main conference format. Accepted full papers will be included in the WACV proceedings. We welcome papers that propose a new technical approach for any of the above, or claim to take a position regarding challenging and open-ended questions that address multi-facet analysis for aerial and remote sensing video understanding
 
 ## Important Dates
