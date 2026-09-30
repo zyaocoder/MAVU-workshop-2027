@@ -213,7 +213,7 @@ layout: default
 
         <div class="wacv-logo">
           {% include figure.html
-             img="wacv27_logo.png"
+             img="wacv-logo.svg"
              alt="WACV 2027 - Orlando, Florida"
              caption=""
              width="100%" %}
