@@ -7,23 +7,32 @@ nav: true
 
 We invite original research contributions in (but not limited to) the following areas:
 
-• Open-vocabulary scene understanding
+• Long-video understanding and reasoning
 
-• Multimodal drone video analysis
+• Video question answering and multimodal reasoning
 
-• Aerial human action recognition & crowd analysis
+• Video retrieval and forensic search
 
-• Efficient UAV object detection
+• Drone and aerial video analysis
 
-Submissions can include short papers (up to 4 pages including references) or full papers (up to 8 pages excluding references) in the WACV main conference format. Accepted full papers will be included in the WACV proceedings. When deciding whether a submission should be a short paper or a full paper, please consider the significance and novelty of the contributions. If the proposed approach is well-developed with sufficient theoretical and/or empirical justification, consider submitting a full paper. If the work is a simple extension or summary of published work in other venues or is in the proof-of-concept stage, a short paper will provide a good basis for discussion and feedback. We welcome papers that propose a new technical approach for any of the above, or claim to take a position regarding challenging and open-ended questions that address multi-facet analysis for aerial and remote sensing video understanding
+• Surveillance video understanding and human action recognition/crowd analysis
+
+• Egocentric and first-person video understanding
+
+• Aerial video perception, including detection, tracking, and segmentation
+
+• Efficient and real-time video models for UAVs and edge devices
+
+- 
+Submissions can include short papers (up to 4 pages including references) or full papers (up to 8 pages excluding references) in the WACV main conference format. Accepted full papers will be included in the WACV proceedings. We welcome papers that propose a new technical approach for any of the above, or claim to take a position regarding challenging and open-ended questions that address multi-facet analysis for aerial and remote sensing video understanding
 
 ## Important Dates
 
-• Paper Submission Deadline - October 20, 2026 11:59 PM PST
+• Paper Submission Deadline: October 20, 2026 11:59 PM PST
 
-• Decision Notification to Authors - October 30, 2026
+• Decision Notification: October 30, 2026
 
-• Camera Ready Submission Deadline (as per main conference) - Nov 20, 2026 11:59 PM PST
+• Camera Ready Submission Deadline: Nov 20, 2026 11:59 PM PST
 
 ## Submission Preparation Instructions
 
