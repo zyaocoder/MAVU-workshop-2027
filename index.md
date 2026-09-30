@@ -230,7 +230,7 @@ layout: default
 
     <div class="workshop-info">
 
-      <span>January 4 or 5 (Half-Day), 2027</span>
+      <span>January 4 or 5 (Full-Day), 2027</span>
 
       <span class="separator">•</span>
 
