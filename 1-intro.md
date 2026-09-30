@@ -29,6 +29,8 @@ Submissions can include short papers (up to 4 pages including references) or ful
 
 • Paper Submission Deadline: October 20, 2026 11:59 PM PST
 
+• Challenge Participation Deadline: October 30, 2026, 2026 11:59 PM PST
+
 • Decision Notification: October 30, 2026
 
 • Camera Ready Submission Deadline: Nov 20, 2026 11:59 PM PST
