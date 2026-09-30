@@ -292,9 +292,12 @@
         <ul>
           <li>
             Prizes:
-               Champion: $1,000
-               2nd: $500
-               3rd: $200
+            
+               **Champion🥇: $1,000**
+               
+               **2nd🥈: $500**
+               
+               **3rd🥉: $200**
           </li>
           <li>
             Primary metric:
