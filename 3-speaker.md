@@ -222,7 +222,7 @@ nav: true
   </div>
 
   <div class="talk-title">
-    To be announced
+    Advancing Video Analytic in the Era of Vision Foundation Models
   </div>
 
 </div>
