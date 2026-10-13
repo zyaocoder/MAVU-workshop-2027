@@ -358,7 +358,7 @@
 
       <p>
         Challenge submissions and leaderboard evaluation are hosted on
-        Codabench.
+        Codabench. Note that: for final awards, the models are limited to open-source-only and the final top-3 team will be asked to submit their code&weights for reproduction.
       </p>
 
       <a
