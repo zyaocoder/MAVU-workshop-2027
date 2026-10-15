@@ -5,7 +5,7 @@ nav: true
 
 # Program Schedule 
 
-**Date:**  
+**Date:** January 5, 2027
 **Time:** 09:00 – 18:30  
 
 
