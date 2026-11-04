@@ -235,18 +235,18 @@ nav: true
 
   <div class="speaker-photo">
     {% include figure.html
-       img="LiuYang.jpg"
-       alt="Photo of Dr. Yang Liu"
+       img="Vicente.png"
+       alt="Photo of Dr. Vicente Ordonez"
        caption=""
        width="100%" %}
   </div>
 
   <div class="speaker-name">
-    Yang Liu
+    Vicente Ordonez
   </div>
 
   <div class="speaker-affiliation">
-    Qualcomm
+    Rice University
   </div>
 
   <div class="speaker-divider"></div>
@@ -256,7 +256,7 @@ nav: true
   </div>
 
   <div class="talk-title">
-    To be announced
+    Toward Multimodal Models that can Reason about the Physical World
   </div>
 
 </div>
